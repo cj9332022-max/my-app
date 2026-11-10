@@ -3,3 +3,4 @@ requests
 mnemonic
 bip_utils
 web3
+gunicorn
